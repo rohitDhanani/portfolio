@@ -76,5 +76,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Ranavav, Gujarat ",
   phoneNo: "+919099963682 ",
-  email: "dhanani51@gmail.com",
+  email: "rohit@dhanani.co.in",
 };

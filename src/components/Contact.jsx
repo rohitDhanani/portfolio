@@ -49,7 +49,7 @@ const Contact = () => {
                 </a>
 
 
-                <a href="mailto:dhanani51@gmail.com" target="_blank" rel="noopener noreferrer">
+                <a href="mailto:rohit@dhanani.co.in" target="_blank" rel="noopener noreferrer">
                 <motion.div 
                 whileInView={{x:0,opacity:1}}
                 initial={{x:-100,opacity:0}}
